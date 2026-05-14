@@ -1,0 +1,12 @@
+C:\Users\user\VsCodeProjects\ClayMod\ClayMod\bin\Debug\netstandard2.1\ClayMod.deps.json
+C:\Users\user\VsCodeProjects\ClayMod\ClayMod\bin\Debug\netstandard2.1\ClayMod.dll
+C:\Users\user\VsCodeProjects\ClayMod\ClayMod\bin\Debug\netstandard2.1\ClayMod.pdb
+C:\Users\user\VsCodeProjects\ClayMod\ClayMod\obj\Debug\netstandard2.1\ClayMod.csproj.AssemblyReference.cache
+C:\Users\user\VsCodeProjects\ClayMod\ClayMod\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\user\VsCodeProjects\ClayMod\ClayMod\obj\Debug\netstandard2.1\ClayMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\VsCodeProjects\ClayMod\ClayMod\obj\Debug\netstandard2.1\ClayMod.AssemblyInfoInputs.cache
+C:\Users\user\VsCodeProjects\ClayMod\ClayMod\obj\Debug\netstandard2.1\ClayMod.AssemblyInfo.cs
+C:\Users\user\VsCodeProjects\ClayMod\ClayMod\obj\Debug\netstandard2.1\ClayMod.csproj.CoreCompileInputs.cache
+C:\Users\user\VsCodeProjects\ClayMod\ClayMod\obj\Debug\netstandard2.1\ClayMod.sourcelink.json
+C:\Users\user\VsCodeProjects\ClayMod\ClayMod\obj\Debug\netstandard2.1\ClayMod.dll
+C:\Users\user\VsCodeProjects\ClayMod\ClayMod\obj\Debug\netstandard2.1\ClayMod.pdb
